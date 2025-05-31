@@ -22,7 +22,7 @@ By using transactions and row-level locking, I ensure that only one user can boo
 
 ## Installation
 
-1. Clone the repository: `git clone [https://github.com/aniket-24/WorkIndia-IRCTC.git](https://github.com/manishsingh0418/WorkIndiaAssignmentIRCTC_API.git)`
+1. Clone the repository: `git clone https://github.com/aniket-24/WorkIndia-IRCTC.git`
 2. Navigate to the project directory: `cd WorkInda-IRCTC`
 3. Install dependencies: `npm install`
 4. Create a `.env` file and set the following environment variables:
